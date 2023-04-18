@@ -1,7 +1,7 @@
-**<p style="text-align: center;">Nirmal Parmar, PhD</p>**
+**<p align='center'>Nirmal Parmar, PhD</p>**
 ****
-*<p style="text-align: center;">Thermal Engineer and Data Scientist</p>*
-*<p style="text-align: center;">PhD in Thermodynamics and Advanced Data Analysis</p>*
+*<p align='center'>Thermal Engineer and Data Scientist</p>*
+*<p align='center'>PhD in Thermodynamics and Advanced Data Analysis</p>*
 
 <picture>
  <p align='center'> 
