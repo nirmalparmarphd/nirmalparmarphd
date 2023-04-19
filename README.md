@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
 - 🌱 I’m currently learning and exploring possible ways/methods/applications to use MG with ML
 - 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/), [Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar)
 - ⚡ Fun fact: 'You are Awesome!'
 
 *<p style="text-align: center;"></p>*
