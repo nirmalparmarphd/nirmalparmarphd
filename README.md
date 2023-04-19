@@ -26,7 +26,7 @@
 **Selected Work**
 | Theme | Projects |
 | --- | --- |
-| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe) |
+| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://test.pypi.org/project/PyPulseHeatPipe/) |
 | MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation) |
 | Critical Data Analysis | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)
 | Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd?tab=repositories), [SPEM](https://github.com/nirmalparmarphd?tab=repositories), [TCR](https://github.com/nirmalparmarphd?tab=repositories)|
