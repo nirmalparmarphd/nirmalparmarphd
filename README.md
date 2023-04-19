@@ -26,10 +26,10 @@
 **Selected Work**
 | Theme | Projects |
 | --- | --- |
-| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://test.pypi.org/project/PyPulseHeatPipe/) |
+| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) |
 | MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation) |
 | Critical Data Analysis | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)
-| Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd?tab=repositories), [SPEM](https://github.com/nirmalparmarphd?tab=repositories), [TCR](https://github.com/nirmalparmarphd?tab=repositories)|
+| Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning)|
 
 <!--
 **nirmalparmarphd/nirmalparmarphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
