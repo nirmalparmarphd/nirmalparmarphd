@@ -5,9 +5,9 @@
 
 <picture>
  <p align='center'> 
- <source media="(prefers-color-scheme: dark)" srcset="nirmal.png">
- <source media="(prefers-color-scheme: light)" srcset="nirmal.png">
- <img alt="Nirmal Parmar" src="nirmal.png">
+ <source media="(prefers-color-scheme: dark)" srcset=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/nirmal.png>
+ <source media="(prefers-color-scheme: light)" srcset=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/nirmal.png>
+ <img alt="Nirmal Parmar" src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/nirmal.png>
  </p>
 </picture>
 
