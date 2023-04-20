@@ -15,7 +15,26 @@
 
 ---
 
-<p align='center'>Toolbox</p>
+- 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
+- 🌱 I’m currently learning and exploring possible ways/methods/applications to use MG with ML
+- 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/), [Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar)
+- ⚡ Fun fact: 'You are Awesome!'
+
+*<p style="text-align: center;"></p>*
+****
+
+**Selected Work**
+| Theme | Projects |
+| --- | --- |
+| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) |
+| MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation) |
+| Critical Data Analysis | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)
+| Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning)|
+
+
+---
+**Tool Box**
 
 <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt="Python" width="50" height="50"/><img src=https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg alt="MacOS" width="50" height="50"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg alt="bash" width="50" height="50"/>
@@ -44,25 +63,6 @@
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/tab.png alt="tableau" width="50" height="50"/>
 
 ---
-
-
-- 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
-- 🌱 I’m currently learning and exploring possible ways/methods/applications to use MG with ML
-- 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/), [Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar)
-- ⚡ Fun fact: 'You are Awesome!'
-
-*<p style="text-align: center;"></p>*
-****
-
-**Selected Work**
-| Theme | Projects |
-| --- | --- |
-| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) |
-| MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation) |
-| Critical Data Analysis | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)
-| Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning)|
-
 <!--
 **nirmalparmarphd/nirmalparmarphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
