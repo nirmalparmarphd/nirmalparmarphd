@@ -35,7 +35,13 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg alt="TensorFlow" width="50" height="50"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg alt="Vim" width="50" height="50"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg alt="VScode" width="50" height="50"/>
-<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/logos/sklearn.png alt="Scikit-learn" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/sklearn.png alt="Scikit-learn" width="70" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/cassandra.png alt="Casandra" width="70" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/matplotlib.png alt="Matplotlib" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/octave.png alt="Octave" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/pyspark.png alt="PySpark" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/seaborn.svg alt="seaborn" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/tab.png alt="tableau" width="50" height="50"/>
 
 ---
 
