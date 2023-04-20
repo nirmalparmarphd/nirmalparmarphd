@@ -35,6 +35,7 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg alt="TensorFlow" width="50" height="50"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg alt="Vim" width="50" height="50"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg alt="VScode" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/logos/sklearn.png alt="Scikit-learn" width="50" height="50"/>
 
 ---
 
