@@ -12,7 +12,32 @@
 </picture>
 
 *<p style="text-align: center;"></p>*
-****
+
+---
+
+<p align='center'>Toolbox</p>
+
+<img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt="Python" width="50" height="50"/><img src=https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg alt="MacOS" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg alt="bash" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg alt="Anaconda" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg alt="Fedora" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg alt="GitHub" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg alt="Jupyter" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg alt="Kaggle" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg alt="Latex" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg alt="Linux" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg alt="Matlab" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg alt="MongoDB" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg alt="NumPy" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg alt="Pandas" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg alt="ssh" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg alt="svn" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg alt="TensorFlow" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg alt="Vim" width="50" height="50"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg alt="VScode" width="50" height="50"/>
+
+---
+
 
 - 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
 - 🌱 I’m currently learning and exploring possible ways/methods/applications to use MG with ML
