@@ -62,6 +62,10 @@
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/pyspark.png alt="PySpark" width="50" height="50"/>
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/seaborn.svg alt="seaborn" width="50" height="50"/>
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/tab.png alt="tableau" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/DL.png alt="Deltalake" width="50" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/databricks-logo.png alt="databricks" width="80" height="50"/>
+<img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/MLflow-logo.png alt="MLflow" width="80" height="50"/>
+
 
 ---
 <!--
