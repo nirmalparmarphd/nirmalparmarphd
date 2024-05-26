@@ -1,6 +1,5 @@
-
-****
-*<p align='center'>Researcher and Data Scientist</p>*
+---
+*`<p align='center'>`Researcher and Data Scientist`</p>`*
 
 <picture>
  <p align='center'> 
@@ -10,31 +9,38 @@
  </p>
 </picture>
 
-*<p style="text-align: center;"></p>*
+*`<p style="text-align: center;"></p>`*
 
-**<p align='center'>Dr. Nirmal Parmar, Ph.D.</p>**
-
+**`<p align='center'>`Dr. Nirmal Parmar, Ph.D.`</p>`**
 ---
-
 - 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
 - 🌱 I’m currently learning and exploring possible ways/methods/applications to develope ML solutions based on a non-statistical method
 - 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/), [Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar), [Medium](https://medium.com/@nirmalparmarphd)
 - ⚡ Fun fact: 'You are Awesome!'
 
-*<p style="text-align: center;"></p>*
-****
-
-**Selected Work - Public Access**
-| Theme | Projects |
-| --- | --- |
-| Python Library | [PyCpep](https://github.com/nirmalparmarphd/PyCpep), [PyCpil](https://github.com/nirmalparmarphd/PyCpil), [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) |
-| MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation) |
-| Critical Data Analysis | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)
-| Thermal Engineering | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning)|
-
+*`<p style="text-align: center;"></p>`*
 
 ---
+
+**Selected Projects - Public Access**
+
+| Theme                    | Projects                                                                                                                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Renewable Energy         | [swhML](https://github.com/nirmalparmarphd/swh_ML)                                                                                                                                  |
+| MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation)                                               |
+| Critical Data Analysis   | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)                                                                                                     |
+| Thermal Engineering      | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning) |
+
+---
+
+| Python Library                                                         | Description                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/)              | [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) is a Python Library for data analysis and for data plotting/visualisation specifically for PHP experimental data.                                                                                                                                                                       |
+| [PyCpep]()                                                                | [PyCpep](https://pypi.org/project/pycpep/) library predicts the deviation in the isobaric heat capacity measurement (at 298~K) due to the improper amount of the sample or/and calibration standard in Tian-Calvet microDSC. <br />PyCpep library works on the well-trained artificial neural network (ANN) model coupled with mathematical gnostic. |
+| [PyCpil](https://pypi.org/project/pycpil/)                                | [PyCpil](https://pypi.org/project/pycpil/) is a library to calculate isobaric heat capacity of ionic liquids and ionanofluids (nanofluids).                                                                                                                                                                                                         |
+| [PyThermalAnalysis](https://github.com/nirmalparmarphd/PyThermalAnalysis) | [PyThermalAnalysis](https://github.com/nirmalparmarphd/PyThermalAnalysis) is a python library to perform energy-exergy analysis                                                                                                                                                                                                                     |
+
 **Tool Box**
 
 <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt="Python" width="50" height="50"/><img src=https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg alt="MacOS" width="50" height="50"/>
@@ -66,8 +72,8 @@
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/databricks-logo.png alt="databricks" width="80" height="50"/>
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/MLflow-logo.png alt="MLflow" width="80" height="50"/>
 
-
 ---
+
 <!--
 **nirmalparmarphd/nirmalparmarphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
