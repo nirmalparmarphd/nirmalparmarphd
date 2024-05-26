@@ -14,7 +14,7 @@
 **`<p align='center'>`Dr. Nirmal Parmar, Ph.D.`</p>`**
 ---
 - 🔭 I’m currently working on the integration of **Mathematical Gnostics (MG)** with **Machine Learning (ML)**
-- 🌱 I’m currently learning and exploring possible ways/methods/applications to develope ML solutions based on a non-statistical method
+- 🌱 I’m currently learning and exploring possible ways/methods/applications to develop ML solutions based on a non-statistical method
 - 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nirmal-parmar-3a440037/), [Google Scholar](https://scholar.google.co.in/citations?user=cF90K6cAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Nirmal-Parmar), [Medium](https://medium.com/@nirmalparmarphd)
 - ⚡ Fun fact: 'You are Awesome!'
