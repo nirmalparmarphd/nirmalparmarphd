@@ -1,4 +1,3 @@
-
 <p align='center'>Data Scientist and Researcher</p>
 
 <picture>
@@ -13,14 +12,13 @@
 
 ---
 
-- 🔭 I’m currently working on the integration of Mathematical Gnostics (MG) with Machine Learning (ML)
+- 🔭 I’m currently working on the integration of Mathematical Gnostics (MG) with Machine Learning (ML) - **Worlds first non-statistical ML library** [Machine Gnostics](https://www.machinegnostics.info)
 - 🌱 I’m currently learning and exploring possible ways/methods/applications to develop ML solutions based on a non-statistical method
 - 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com), [Google Scholar](https://scholar.google.com), [ResearchGate](https://www.researchgate.net), [Medium](https://medium.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com), [Google Scholar](https://scholar.google.com), [ResearchGate](https://www.researchgate.net), [Medium](https://medium.com), [Personal Website](https://www.nirmalparmar.in)
 - ⚡ Fun fact: 'You are Awesome!'
 
 <p style="text-align: center;"></p>
-
 
 ---
 
@@ -28,20 +26,12 @@
 
 | Theme                    | Projects                                                                                                                                                                         |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Machine Gnostics         | [Machine Gnostics](https://www.machinegnostics.info)                   |
 | Renewable Energy         | [swhML](https://github.com/nirmalparmarphd/swh_ML)                                                                                                                                  |
 | MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation)                                               |
 | Critical Data Analysis   | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)                                                                                                     |
 | Thermal Engineering      | [PulseHeatPipe](https://github.com/nirmalparmarphd/PulseHeatPipe), [SPEM](https://github.com/nirmalparmarphd/SPEM_prediction), [TCR](https://github.com/nirmalparmarphd/TCR_DeepLearning) |
 
----
-**Python Library - Public Access**
-
-| Library                                                         | Description                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/)              | [PyPulseHeatPipe](https://pypi.org/project/PyPulseHeatPipe/) is a Python Library for data analysis and for data plotting/visualization specifically for PHP experimental data.                                                                                                                                                                       |
-| [PyCpep]()                                                                | [PyCpep](https://pypi.org/project/pycpep/) library predicts the deviation in the isobaric heat capacity measurement (at 298~K) due to the improper amount of the sample or/and calibration standard in Tian-Calvet microDSC. <br />PyCpep library works on the well-trained artificial neural network (ANN) model coupled with mathematical gnostic. |
-| [PyCpil](https://pypi.org/project/pycpil/)                                | [PyCpil](https://pypi.org/project/pycpil/) is a library to calculate isobaric heat capacity of ionic liquids and ionanofluids (nanofluids).                                                                                                                                                                                                         |
-| [PyThermalAnalysis](https://github.com/nirmalparmarphd/PyThermalAnalysis) | [PyThermalAnalysis](https://github.com/nirmalparmarphd/PyThermalAnalysis) is a python library to perform energy-exergy analysis                                                                                                                                                                                                                     |
 ---
 
 **Tool Box**
@@ -76,18 +66,3 @@
 <img src=https://github.com/nirmalparmarphd/nirmalparmarphd/blob/main/logo/MLflow-logo.png alt="MLflow" width="80" height="50"/>
 
 ---
-
-<!--
-**nirmalparmarphd/nirmalparmarphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
