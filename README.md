@@ -26,7 +26,7 @@
 
 | Theme                    | Projects                                                                                                                                                                         |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Machine Gnostics         | [Machine Gnostics](https://www.machinegnostics.info)                   |
+| Machine Gnostics         | [Machine Gnostics](https://www.machinegnostics.com)                   |
 | Renewable Energy         | [swhML](https://github.com/nirmalparmarphd/swh_ML)                                                                                                                                  |
 | MG with Machine Learning | [microDSC](https://github.com/nirmalparmarphd/microDSC_error_prediction_ANN), [MGMA](https://github.com/nirmalparmarphd/mgma_automation)                                               |
 | Critical Data Analysis   | [LegendreRegression](https://github.com/nirmalparmarphd/LLE_LegendreRegression)                                                                                                     |
