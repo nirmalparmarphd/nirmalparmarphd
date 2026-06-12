@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on the integration of Mathematical Gnostics (MG) with Machine Learning (ML) - **Worlds first non-statistical ML library** [Machine Gnostics](https://www.machinegnostics.info)
+- 🔭 I’m currently working on the integration of Mathematical Gnostics (MG) with Machine Learning (ML) - **Worlds first non-statistical ML library** [Machine Gnostics](https://www.machinegnostics.com)
 - 🌱 I’m currently learning and exploring possible ways/methods/applications to develop ML solutions based on a non-statistical method
 - 👯 I’m open to collaborate on data analysis, thermal engineering, and machine learning projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com), [Google Scholar](https://scholar.google.com), [ResearchGate](https://www.researchgate.net), [Medium](https://medium.com), [Personal Website](https://www.nirmalparmar.in)
